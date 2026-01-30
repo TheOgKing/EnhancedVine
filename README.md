@@ -1,26 +1,14 @@
 #  📱 EnhancedVine: Installation & Feature Guide
 Since EnhancedVine is distributed as a pre-compiled .ipa file, you will need to "sideload" the application onto your iOS device. Below is a comprehensive guide on how to get started and a deep dive into the features that will transform your Amazon Vine experience.
 
-#### 📥 How to Install (Sideloading Tutorial)
-Because this app is not on the App Store, you must use a sideloading tool to install the .ipa on your iPhone or iPad.
-
-- Option 1: SideStore (Recommended - No Computer Needed After Setup)
-- Download the IPA: Download the latest release from the [Releases] section of this repository.
-
-- Initial Setup: Follow the SideStore Setup Guide (requires a computer once to install the SideStore app).
-
-- Install: Open SideStore on your phone, tap the + icon, and select the EnhancedVine.ipa file.
-
-- Refresh: Remember to refresh the app every 7 days via SideStore to keep it active.
-
-#### Option 2: AltStore
+#### Option 1: AltStore
 - Install AltServer on your PC or Mac.
 
 - Connect your iPhone to your computer via lightning/USB-C.
 
 - Open the AltStore app on your phone, go to My Apps, tap +, and select the downloaded EnhancedVine.ipa.
 
-#### Option 3: Sideloadly
+#### Option 2: Sideloadly
 - Download and install Sideloadly.
 
 - Connect your device to your computer.
