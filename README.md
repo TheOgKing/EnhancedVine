@@ -32,13 +32,15 @@ Because this app is not on the App Store, you must use a sideloading tool to ins
 #### 🎥 Video Tutorials
 If you are new to sideloading, these community guides are excellent resources:
 
-How to use AltStore (Windows & Mac)
+[General youtube search link](https://www.youtube.com/results?search_query=ios+sideloading+guide "General youtube search link")
 
-Setting up SideStore for No-PC Sideloading
+[How to use AltStore (Mac)](https://www.youtube.com/watch?v=WFxsSKtkSN4 "How to use AltStore (Mac)")
+[How to use AltStore (Windows)](https://www.youtube.com/watch?v=40fWAc546Rs "How to use AltStore (Mac)")
 
-Using Sideloadly for Beginners
+[Using Sideloadly(Windows)](https://www.youtube.com/watch?v=c-ovNENBrJ0 "Using Sideloadly for Beginners")
+[Using Sideloadly(Mac)](https://www.youtube.com/watch?v=FpD8nwp60Yk "Using Sideloadly(Mac)")
 
-# 🌟 Extensive Feature Guide
+🌟 Extensive Feature Guide
 EnhancedVine is a specialized toolset designed to give power users an edge in the Amazon Vine ecosystem.
 
 ### ⚡ Automation & Workflow (Script Engine)
