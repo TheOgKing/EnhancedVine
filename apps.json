@@ -1,59 +1,33 @@
 {
   "name": "Th3K1ng's Space",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/JoaiEgN.png",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#6156e2",
-  "featuredApps": [
-    "com.th3k1ng.enhancedvine"
-  ],
-  "headerURL": "https://i.imgur.com/AnEXdhj.jpeg",
+  "identifier": "com.th3k1ng.enhancedvine.repo",
+  "sourceURL": "https://theogking.github.io/EnhancedVine/apps.json",
   "apps": [
     {
       "name": "EnhancedVine",
       "bundleIdentifier": "com.th3k1ng.enhancedvine",
-      "marketplaceID": "",
       "developerName": "Th3K1ng",
       "subtitle": "Initial release with custom scripts and themes",
-      "localizedDescription": "An enhanced experience for Vine with custom themes and automation scripts",
-      "iconURL": "https://i.imgur.com/0cMfk4C.png",
+      "version": "1.0.0",
+      "versionDate": "2026-02-04T08:02:00-08:00",
+      "versionDescription": "Initial release with custom scripts and themes.",
+      "downloadURL": "https://github.com/TheOgKing/EnhancedVine/releases/download/vine/EnhancedVine.ipa",
+      "localizedDescription": "An enhanced experience for Vine with custom themes and automation scripts.",
+      "iconURL": "https://raw.githubusercontent.com/TheOgKing/EnhancedVine/refs/heads/main/icon.png",
       "tintColor": "#56a87f",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
+      "size": 19300000,
+      "permissions": [
         {
-          "version": "1.0.0",
-          "date": "2026-02-04T16:02:00-08:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/TheOgKing/EnhancedVine/releases/download/vine/EnhancedVine.ipa",
-          "size": 19300000,
-          "buildVersion": "52",
-          "minOSVersion": null
+          "type": "camera",
+          "usageDescription": "Allow EnhancedVine to access your camera"
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Allow EnhancedVine to access your microphone"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Allow EnhancedVine to access your camera",
-          "NSMicrophoneUsageDescription": "Allow EnhancedVine to access your microphone"
-        }
-      },
-      "patreon": {}
+      ]
     }
   ],
-  "news": [
-    {
-      "title": "Initial Realease",
-      "identifier": "news_yw2c1ib0t1",
-      "caption": "Main Release of EnhancedVine",
-      "date": "2026-02-04T00:27",
-      "tintColor": "#6156e2",
-      "imageURL": "",
-      "notify": true,
-      "url": "",
-      "appID": "com.th3k1ng.enhancedvine"
-    }
-  ]
+  "news": [],
+  "userInfo": {}
 }
