@@ -20,16 +20,16 @@
       "localizedDescription": "An enhanced experience for Vine with custom themes and automation scripts",
       "iconURL": "https://i.imgur.com/0cMfk4C.png",
       "tintColor": "#56a87f",
-      "category": "other",
+      "category": "utilities",
       "screenshots": [],
       "versions": [
         {
+          "version": "1.0.0",
+          "date": "2026-02-04T16:02:00-08:00",
+          "localizedDescription": null,
           "downloadURL": "https://github.com/TheOgKing/EnhancedVine/releases/download/vine/EnhancedVine.ipa",
           "size": 19300000,
-          "version": "1.0.0",
-          "buildVersion": null,
-          "date": "2026-02-04T08:02:00-08:00",
-          "localizedDescription": null,
+          "buildVersion": "52",
           "minOSVersion": null
         }
       ],
@@ -43,5 +43,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Initial Realease",
+      "identifier": "news_yw2c1ib0t1",
+      "caption": "Main Release of EnhancedVine",
+      "date": "2026-02-04T00:27",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "",
+      "appID": "com.th3k1ng.enhancedvine"
+    }
+  ]
 }
