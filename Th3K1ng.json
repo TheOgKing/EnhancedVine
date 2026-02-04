@@ -1,0 +1,44 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "EnhancedVine",
+      "bundleIdentifier": "com.th3k1ng.enhancedvine",
+      "marketplaceID": "",
+      "developerName": "Th3K1ng",
+      "subtitle": "Initial release with custom scripts and themes",
+      "localizedDescription": "An enhanced experience for Vine with custom themes and automation scripts",
+      "iconURL": "https://i.imgur.com/0cMfk4C.png",
+      "tintColor": "#56a87f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/TheOgKing/EnhancedVine/releases/download/vine/EnhancedVine.ipa",
+          "size": 19300000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-02-04T08:02:00-08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Allow EnhancedVine to access your camera",
+          "NSMicrophoneUsageDescription": "Allow EnhancedVine to access your microphone"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
